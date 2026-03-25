@@ -80,3 +80,14 @@ ul li a:hover {
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
 }
+
+footer {
+            margin-top: 8rem;
+            padding: 4rem 2rem;
+            background: var(--text-dark);
+            /*color: #94a3b8;*/
+            color: #0768ef;
+            text-align: center;
+            border-top-left-radius: 50% 10%;
+            border-top-right-radius: 50% 10%;
+        }
