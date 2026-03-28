@@ -1,3 +1,3 @@
 # AndreaMascoloPortfolio
 
-Link: https://mascoloandrea.github.io/AndreaMascoloPortfolio/
+Link: https://mascoloandrea.github.io/AM.Portfolio/
